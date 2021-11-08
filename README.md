@@ -3,6 +3,7 @@
 **Technologies:**
 - HTML
 - CSS
+- Sass
 - Bootstrap
 
 ---
